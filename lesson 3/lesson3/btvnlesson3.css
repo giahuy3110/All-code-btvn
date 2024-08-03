@@ -1,0 +1,31 @@
+#g1{
+background-color: blueviolet;
+}
+#g2{
+background-color: brown;
+}
+#g3{
+background-color: cadetblue;
+}
+#g4{
+background-color: cyan;
+}
+#g5{
+background-color: burlywood;
+}
+#g6{
+background-color: chartreuse;
+}
+#g7{
+background-color: chocolate;
+}
+#g8{
+background-color: cornflowerblue;
+}
+#g9{
+background-color: crimson;
+}
+
+.g{
+    font-size: 50px;
+}
