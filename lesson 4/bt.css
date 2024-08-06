@@ -1,0 +1,47 @@
+.textinboxClass{
+    margin-top: 50px;
+    width: 500px;
+    height: 50px;
+    font-size: 15px; 
+}
+.textinbox{
+    display: flex;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    font-size: 15px; 
+}
+#textinboxid1{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 2px 60px ;
+}
+#textinboxid2{
+    background-color: blanchedalmond;
+    padding: 2px 70px
+}
+#textinboxid3{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 2px 60px ;
+    margin-top: 50px;
+}
+#textinboxid4{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 2px 60px ;
+    margin-left: 300px ;
+    margin-top: 50px;
+}
+#divto{
+    display: flex;
+}
+#dividto{
+    background-color: gray;
+    width: 650px;
+    height: 70px;
+    padd
+}

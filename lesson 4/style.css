@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+}
+
+#box1{
+    background-color: red;
+    padding: 150px;
+}
+#box2{
+    background-color: green;
+    border: 100px dashed gray;
+}
+#box3{
+    background-color: blue;
+    margin: -100px -130px 200px 300px;
+}
