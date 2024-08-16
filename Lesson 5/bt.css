@@ -127,7 +127,8 @@ h1{
     width: 425px;
 }
 #giadonhang{
-    margin-left: 440px
+    margin-left: 440px;
+    text-decoration-line: line-through;
 }
 #sltt{
     margin-left: 5px;
