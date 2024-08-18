@@ -1,0 +1,145 @@
+/* TODO(you): Write the CSS to finish the assignment! */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Proxima Nova','Helvetica','Arial',sans-serif;
+    font-size: 18px;
+    color: #222222;
+}
+body{
+    margin: 0 auto;
+    width: 700px;
+    background-color: #f1f1f1;
+}
+h1{
+    color: red;
+}
+#WPR{
+    font-size: 40px;
+}
+#intro{
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+}
+#introIDM{
+    display: flex;
+}
+#introM{
+    background-color: yellow;
+    border-radius: 500px;
+    padding: 10px;
+    margin-left: 350px;
+    transform: rotate(-30deg);
+    color: black;
+}
+.introMERN{
+    background-color: yellow;
+    border-radius: 500px;
+    padding: 10px;
+    margin-left: 10px;
+    transform: rotate(-30deg);
+    color: black;
+}
+#HTMLQuiz{
+    margin-top: 10px;
+    background-image: url( images/background.jpg);
+    height: 500px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#CauhoiHTML{
+    background-color: white;
+    width: 400px;
+    padding: 5px;
+    padding-right: 0px;
+    font-size: 70px;
+}
+#divtacgia{
+    width: 800px;
+    text-align: center;
+    margin-top: 30px;
+}
+#DivBKT{
+    font-size: 40px;
+    margin-top: 20px;
+}
+#divvanban1{
+    font-size: 25px;
+    margin-top: 20px;
+}
+#divvanban2{
+    font-size: 25px;
+    margin-top: 20px;
+}
+#divvanban3{
+    font-size: 40px;
+    margin-top: 20px;
+}
+#divvanban4{
+    font-size: 25px;
+    margin-top: 20px;
+}
+#DivBKT2{
+    background-color: silver;
+    width: 800px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+#divvanban5{
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+#divvanban6{
+    margin-top: 20px;
+    text-align: center;
+}
+#divvanban7{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    width: 200px;
+    margin-left: 290px;
+    padding: 10px;
+}
+#divfull{
+    margin-top: 500px;
+}
+#cauhoi{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 800px;
+}
+#question{
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 800px;
+}
+#cautraloi{
+    font-size: 30px;
+    background-color: silver;
+    margin-top: 1px;
+    width: 800px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#guibai{
+    background-color: silver;
+    margin-top: 20px;
+    height: 80px;
+    text-align: center;
+    padding-top: 30px;
+    width: 820px;
+}
+#nutguibai{
+    background-color: green;
+    color: white;
+    padding: 15px;
+}
