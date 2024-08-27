@@ -1,0 +1,211 @@
+#divfull{
+    background-color: rgb(248, 243, 243);
+    border-style: solid;
+    height: 1100px;
+    width: 850px;
+}
+#intro{
+    background-color: purple;
+    width: 650px;
+    margin-left: 100px;
+    margin-top: 100px;
+    height: 880px;
+}
+.Ten1{
+    margin-left: 400px;
+    padding-top: 10px;
+    font-size: 30px;
+    color: white;
+}
+#chucvu{
+    margin-left: 400px;
+    margin-top: 20px; 
+    font-size: 25px;
+    color: white;
+}
+#idgioithieu{
+    background-color: antiquewhite;
+    height: 650px;
+    margin-top: -70px;
+    color: purple;
+}
+#gt1{
+    background-color: rgb(226, 206, 176);
+    width: 350px;
+    height: 20px;
+    padding-top: 5px;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+.classgt{
+    margin-left: 280px;
+    margin-top: 20px;
+}
+#gt2{
+    width: 300px;
+}
+#gt3{
+    font-size: 10px;
+    margin-left: 300px;
+    margin-top: 5px;
+}
+#gt4{
+    font-size: 10px;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+#gt5{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt7{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt9{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt10{
+    background-color: rgb(226, 206, 176);
+    width: 350px;
+    height: 20px;
+    margin-left: 280px;
+    padding-top: 5px;
+    margin-top: 50px;
+}
+#gt12{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt13{
+    font-size: 10px;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+#gt14{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt16{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt17{
+    font-size: 10px;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+#gt18{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#gt19{
+    background-color: rgb(226, 206, 176);
+    width: 350px;
+    height: 20px;
+    margin-left: 280px;
+    padding-top: 5px;
+    margin-top: 50px;
+}
+#gt20{
+    font-size: 10px;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+#gt21{
+    font-size: 10px;
+    margin-left: 280px;
+}
+#idgioithieu2{
+    background-color: rgb(226, 206, 176);
+    width: 250px;
+    height: 680px;
+    margin-top: -700px;
+    margin-left: 15px;
+    color: purple;
+}
+#gt22{
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+#gt23{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+#gt24{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.classgt2{
+    margin-left: 25px;
+    font-size: 10px;
+}
+#gt25{
+    margin-top: 10px;
+}
+#gt29{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+#gt30{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.classgt3{
+    margin-left: 25px;
+    font-size: 10px;
+    margin-top: 5px;
+}
+#gt31{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+#gt32{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.classgt4{
+    display: flex;
+}
+.classgt5{
+    margin-left: 25px;
+    font-size: 10px;
+    margin-top: 10px;
+}
+.classgt6{
+    width: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+#gt33{
+    background-color: antiquewhite;
+    width: 650px;
+    margin-top: -570px;
+    margin-left: -15px;
+    height: 30px;
+}
+#gt34{
+    background-color: rgb(226, 206, 176);
+    margin-top: -100px;
+    height: 100px;
+}
+.classgt7{
+    display: flex;
+}
+#idgtanh1{
+    margin-left: 30px;
+}
+#idgtanh2{
+    margin-left: 55px;
+}
+#idgtanh3{
+    margin-left: 21px;
+}
+#idgtanh4{
+    margin-left: 50px;
+}
+#idgtanh5{
+    margin-left: 42px;
+}

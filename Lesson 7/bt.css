@@ -1,0 +1,11 @@
+.container-header{
+    
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(10deg,rgba(243, 243, 14, 0.5), rgba(2, 100, 2, 0.5)), url(https://nld.mediacdn.vn/2018/11/17/neymar-1542416268835185590869.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50% 60%;
+}
