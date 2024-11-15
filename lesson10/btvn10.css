@@ -1,0 +1,100 @@
+#dln{
+    background-color: white;
+    padding: 20px 10px;
+}
+#dn1{
+    font-family: Arial Black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+#dn2{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 12.5px;
+    color: gray;
+}
+#dn3{
+    padding-top: 7px;
+    padding-left: 20px;
+    font-size: 12.5px;
+    color: gray;
+}
+#dn4{
+    width: 300px;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+#dn5{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+#sksks{
+    background-color: rgb(116, 116, 255);
+    color: white;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px;
+    border-radius: 5px ;
+    font-size: 33px;
+    margin-left: 20px;
+}
+#dn6{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 300px;
+}
+#dn7{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 300px;
+}
+#lhlhlh{
+    display: flex;
+    margin-top: 30px;
+}
+#dl3{
+    margin-left: 20px;
+}
+.cl{
+    font-size: 12.5px;
+    color: grey;
+}
+.cl2{
+    width: 435px;
+}
+.cl3{
+    border-top: 1px dashed red;
+    margin-top: 20px;
+}
+.cl4{
+    margin-bottom: 10px;
+}
+.lol{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lmao{
+    background-color: rgb(130, 130, 243) ;
+    height: 65px;
+    width: 68px;
+    border-radius: 5px;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+#dl2{
+    margin-top: 10px;
+}
+#hqhqh{
+    background-color: rgb(230, 219, 219);
+    width: 870px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
