@@ -1,8 +1,4 @@
-#dln{
-    background-color: #12263F;
-    text-align: center;
-    height: 1000px;
-}
+
 #dl1{
     background-color: #12263F;
     display: flex;
@@ -71,6 +67,7 @@
     padding-top: 15px;
     padding-bottom: 15px;
     color: white    ;
+    text-align: center;
 }
 #dln2{
     display: flex;
@@ -81,6 +78,7 @@
     width: 49%;
     margin-top: 50px;
     font-size: 15px;
+    
 }
 #dn8{
     color: yellow;
@@ -138,6 +136,23 @@
 }
 #idln{
     display: flex;
-    width: 130%;
-    padding-left: 390px;
+    justify-content: center;
+}
+body{
+    background-color: #12263F;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    flex-direction: column;
+}
+#ghghgh{
+    background-color: aqua;
+    width: 80%;
+}
+#divv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
