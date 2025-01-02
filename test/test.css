@@ -1,0 +1,8 @@
+.classbo{
+    flex-wrap: wrap;
+    display: flex;
+}
+.class{
+    border: 1px groove blue;
+    width: 200px;
+}
